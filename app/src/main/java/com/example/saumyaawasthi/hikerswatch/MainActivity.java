@@ -106,4 +106,5 @@ public class MainActivity extends AppCompatActivity {
         }
         textView.setText("Latitude : " + latitude + "\nLongitude : " + longitude + "\nAccuracy : " + accuracy + "\nAltitude : " + altitude + "\nAddress : " + address);
     }
+    
 }
